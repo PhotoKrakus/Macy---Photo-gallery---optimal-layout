@@ -1,2 +1,2 @@
-# Macy---Photo-gallery---optimal-layout
+# macy.js---Photo-gallery---optimal-layout
 Optimal layout of photos
